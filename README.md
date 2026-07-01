@@ -156,7 +156,7 @@ Smart-Home-Automation/
 │   ├── hometrial.hex
 │
 ├── Images/
-│   ├── Circuit.png
+│   ├── Screenshot 2026-07-01 113755.png
 │
 ├── README.md
 ```
