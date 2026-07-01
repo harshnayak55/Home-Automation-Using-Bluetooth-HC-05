@@ -153,7 +153,7 @@ Smart-Home-Automation/
 │
 ├── Code/
 │   ├── main.c
-│   ├── SmartHome.hex
+│   ├── hometrial.hex
 │
 ├── Images/
 │   ├── Circuit.png
